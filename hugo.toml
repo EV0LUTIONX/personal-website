@@ -1,0 +1,84 @@
+baseURL = 'https://jlogan.io'
+languageCode = 'en-us'
+title = 'Jonathan Logan - Personal Website'
+theme = 'anatole'
+
+[menu]
+	
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+#  [[menu.main]]
+#  name = "Posts"
+#  weight = 200
+#  identifier = "posts"
+#  url = "/posts/"
+  
+#    [[menu.main]]
+#    name = "All Posts"
+#    weight = 210
+#    identifier = "allposts"
+#    url = "/posts/"
+#    parent = "posts"
+  
+#    [[menu.main]]
+#    name = "Home Lab"
+#    weight = 220
+#    identifier = "homelab"
+#    url = "/category/homelab/"
+#    parent = "posts"
+	
+#    [[menu.main]]
+#    name = "Astrophotography"
+#    weight = 230
+#    identifier = "astrophotography"
+#    url = "/category/astrophotography/"
+#    parent = "posts"
+
+  [[menu.main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin-in"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/jonathan-logan-99ab925b/"
+
+[[params.socialIcons]]
+icon = "fa-regular fa-envelope"
+title = "e-mail"
+url = "mailto:jlogan3990@gmail.com"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/jlogan.io/"
+
+[params]
+title = "I'm Jonathan Logan"
+author = "Jonathan Logan"
+description = "Hello! My name is Jonathan Logan and I'm an Engineering Program Manager at CrowdStrike with a focus on DevOps, Agility, and Leadership. When I'm not working I enjoy spending time with my family, working on my homelab, and spending nights in the California desert hiking and doing astrophotography."
+profilePicture = "images/jonathanlogan.png"
+mainSections = []
+contentratio = 0.6
+postSectionName = "posts"
+customCss = ["css/custom.css"]
+customJs = ["js/custom.js"]
+contactFormAction = "https://formspree.io/f/xbjnqokd"
+readMore = true
+
+[taxonomies]
+    category = "category"
+    series = "series"
+    tag = "tag"

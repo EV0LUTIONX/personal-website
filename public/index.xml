@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Logan - Personal Website</title>
+    <link>https://jlogan.io/</link>
+    <description>Recent content on Jonathan Logan - Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jlogan.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>https://jlogan.io/contact/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlogan.io/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+  </channel>
+</rss>

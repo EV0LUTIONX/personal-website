@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jlogan.io/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jlogan.io/contact/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jlogan.io/posts/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jlogan.io/category/</loc>
+  </url><url>
+    <loc>https://jlogan.io/series/</loc>
+  </url><url>
+    <loc>https://jlogan.io/tag/</loc>
+  </url>
+</urlset>
