@@ -153,6 +153,7 @@
     integrity="{{ $secureHeaderJS.Data.Integrity }}"
     crossorigin="anonymous"
   ></script>
+  <script defer src="https://analytics.jlogan.io/script.js"></script>
 
   {{ if not .Site.Params.disableThemeSwitcher }}
     {{ $anatoleThemeSwitcher := resources.Get "js/anatole-theme-switcher.js" }}

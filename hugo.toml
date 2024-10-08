@@ -11,25 +11,25 @@ theme = 'anatole'
   weight = 100
   url = "/"
 
-#  [[menu.main]]
-#  name = "Posts"
-#  weight = 200
-#  identifier = "posts"
-#  url = "/posts/"
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
   
-#    [[menu.main]]
-#    name = "All Posts"
-#    weight = 210
-#    identifier = "allposts"
-#    url = "/posts/"
-#    parent = "posts"
-  
-#    [[menu.main]]
-#    name = "Home Lab"
-#    weight = 220
-#    identifier = "homelab"
-#    url = "/category/homelab/"
-#    parent = "posts"
+    [[menu.main]]
+    name = "All Posts"
+    weight = 210
+    identifier = "allposts"
+    url = "/posts/"
+    parent = "posts"
+ 
+    [[menu.main]]
+    name = "Home Lab"
+    weight = 220
+    identifier = "homelab"
+    url = "/category/home-lab/"
+    parent = "posts"
 	
 #    [[menu.main]]
 #    name = "Astrophotography"
@@ -68,15 +68,18 @@ url = "https://www.instagram.com/jlogan.io/"
 [params]
 title = "I'm Jonathan Logan"
 author = "Jonathan Logan"
-description = "Hello! My name is Jonathan Logan and I'm an Engineering Program Manager at CrowdStrike with a focus on DevOps, Agility, and Leadership. When I'm not working I enjoy spending time with my family, working on my homelab, and spending nights in the California desert hiking and doing astrophotography."
+description = "Hello! My name is Jonathan Logan and I'm an Engineering Program Manager at CrowdStrike with a focus on DevOps, Agility, and Leadership. When I'm not working I enjoy spending time with my family, working on my home lab, and spending nights in the California desert hiking and doing astrophotography."
 profilePicture = "images/jonathanlogan.png"
 mainSections = []
 contentratio = 0.6
 postSectionName = "posts"
-customCss = ["css/custom.css"]
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+customCss = ["css/custom.css", "css/syntax.css"]
 customJs = ["js/custom.js"]
 contactFormAction = "https://formspree.io/f/xbjnqokd"
 readMore = true
+doNotLoadAnimations = true
 
 [taxonomies]
     category = "category"

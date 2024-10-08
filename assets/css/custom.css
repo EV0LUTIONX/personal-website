@@ -49,3 +49,24 @@
 .sidebar__list {
 	margin: 0 0 40px 0;
 }
+
+.highlight table {
+
+	width: 100%;
+	overflow-x: scroll;
+	display: block;
+
+}
+
+.theme--dark .post__thumbnail-wrapper {
+    box-shadow: 0 8px 16px #111111;
+}
+
+/*------------------------*/
+/* breadcrumbs
+/*------------------------*/
+
+.breadcrumb::after {content: " / ";}
+.breadcrumb:first-child::after {content: none;}
+
+

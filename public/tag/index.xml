@@ -2,9 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Jonathan Logan - Personal Website</title>
-    <link>https://jlogan.io/tag/</link>
+    <link>http://localhost:1313/tag/</link>
     <description>Recent content in Tag on Jonathan Logan - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jlogan.io/tag/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Influxdb</title>
+      <link>http://localhost:1313/tag/influxdb/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tag/influxdb/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ingest</title>
+      <link>http://localhost:1313/tag/ingest/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tag/ingest/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/tag/project/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tag/project/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rpi</title>
+      <link>http://localhost:1313/tag/rpi/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tag/rpi/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Solar</title>
+      <link>http://localhost:1313/tag/solar/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tag/solar/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sunpower</title>
+      <link>http://localhost:1313/tag/sunpower/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tag/sunpower/</guid>
+      
+        <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
